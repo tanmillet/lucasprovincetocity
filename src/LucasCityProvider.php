@@ -1,6 +1,6 @@
 <?php
 
-    namespace TerryLucasCity\Console;
+    namespace TerryLucasCity\Cityer\Console;
 
 use Illuminate\Support\ServiceProvider;
 
