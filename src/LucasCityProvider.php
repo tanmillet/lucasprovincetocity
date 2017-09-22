@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+    namespace TerryLucasCity\Console;
 
 use Illuminate\Support\ServiceProvider;
 
